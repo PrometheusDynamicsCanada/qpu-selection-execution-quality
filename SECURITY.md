@@ -12,7 +12,7 @@ This repository is intended to publish experimental evidence while avoiding disc
 
 The repository intentionally exposes experimental outputs such as circuit metrics, physical allocations, measured observables, IBM job identifiers, timestamps, and preserved execution artifacts needed for independent review.
 
-It does not contain the private Prometheus optimizer implementation, internal weighting scheme, PINN model weights, or internal decision logic.
+It does not contain the private Prometheus optimizer implementation, internal weighting scheme, weights, or internal decision logic.
 
 ## Raw IBM metadata
 
