@@ -1,0 +1,66 @@
+{
+  "failed_jobs": 0,
+  "format": "prometheus_evidence_manifest_v1",
+  "generated_at_utc": "2026-09-10T01:16:30.426443+00:00",
+  "records": [
+    {
+      "job_details_raw_sha256": "ce7b7b1ca74e1ff42abd1e673fff4ccda3afcb61297e3f8c56f799b58d5b0618",
+      "job_id": "dah048r9k43c73ae14kg",
+      "job_results_raw_sha256": "82c80c6f0f30125619e9e5a0726fe31c1c0587c424d36052340ef0de03b277cc",
+      "package": "job-dah048r9k43c73ae14kg.zip",
+      "package_sha256": "1a60c3e6fa728711a0d26743335174379aba33c8102dfb8bbac1d68e71cbf260"
+    },
+    {
+      "job_details_raw_sha256": "aafaa4cb449308b757e6eed4e9cad9d30ae41abfe36d29d2452d400d895641d3",
+      "job_id": "dah0071hvn6c73cr8b10",
+      "job_results_raw_sha256": "494a867fdd57be1d5f174c8cc61b0b90a3b3f0b0dcb68678b04c2d1526388bfe",
+      "package": "job-dah0071hvn6c73cr8b10.zip",
+      "package_sha256": "69283e3e6981c73b8b11f6922deacb38d38710e59cb6d121472d9b558b9aede2"
+    },
+    {
+      "job_details_raw_sha256": "db83a4b9e5977238be4f5f6f5cd297a34a6a65a0f417805c53d4766be2e66718",
+      "job_id": "dagvtu8mhr3c73e5poe0",
+      "job_results_raw_sha256": "b7b335626267a7273b2a0be18588da611b2402d812833748a8f1df4c57328af5",
+      "package": "job-dagvtu8mhr3c73e5poe0.zip",
+      "package_sha256": "be98996dcbaa324cf822bbce5cebf7b6b5ba5a422df9b623dfbe9d8afbfaa775"
+    },
+    {
+      "job_details_raw_sha256": "b6e99ba39cee978f7636453dc7b29e86276bdd8f48a3e799973701bc8f12ab93",
+      "job_id": "dagvq10mhr3c73e5pjvg",
+      "job_results_raw_sha256": "473e0616261abdf0899cee929c2636361b21a9ed2f83e818f00805bae656c071",
+      "package": "job-dagvq10mhr3c73e5pjvg.zip",
+      "package_sha256": "7b7f2290901ffbf593e99a70c188753268f1a8b923102dc57e8322fd65cf03a4"
+    },
+    {
+      "job_details_raw_sha256": "baa4e258bca6ce418068939bb489983dd0cba22bfa2ca68f040c697d1d52b0cc",
+      "job_id": "dagvm5phvn6c73cr7vp0",
+      "job_results_raw_sha256": "a2f2a9c6a4f0d5fa8042ed07ba308a12afa1fb67fad7047d2a60b0eef72b233a",
+      "package": "job-dagvm5phvn6c73cr7vp0.zip",
+      "package_sha256": "234915dc0e5664fea144815d709f0cceb629b0528e02d41168eaab4059b42361"
+    },
+    {
+      "job_details_raw_sha256": "81f5459d3d2949ffb602e7ce1a867bab51ce82167aba9416f3f7ef36b226e10c",
+      "job_id": "dagvjqvi3e6s738n23kg",
+      "job_results_raw_sha256": "bcaa221c1277e68faca67895bbb7989e91b647064961dfefc07b79e7762b848b",
+      "package": "job-dagvjqvi3e6s738n23kg.zip",
+      "package_sha256": "7ea9d5565afefe70a7e7821879a56e1f39ba6c2e30419ca2c37187ecc511a2fd"
+    },
+    {
+      "job_details_raw_sha256": "f6dc1e6a166d06478e6c1c7049b7832261313414f8c41cb0dfd3c03296ab4de5",
+      "job_id": "dagvglvi3e6s738n1vvg",
+      "job_results_raw_sha256": "9b4e30415ae80c43866de009e17d4ea0694572a993134215eb6dbb94788e1467",
+      "package": "job-dagvglvi3e6s738n1vvg.zip",
+      "package_sha256": "122e0724e2279fb7496d3d9c0daacdbd7979b9562b496b3542d1129f6218e0f0"
+    },
+    {
+      "job_details_raw_sha256": "d0b93f0e763c29757d4863b6490cc028da9d6435d2c2c040e539ac1417a09dc0",
+      "job_id": "dagvd3gmhr3c73e5p3p0",
+      "job_results_raw_sha256": "5726eea7d6890bbd7729b52e5a5348b2a082a6c3867908640b9614034cc2e7ef",
+      "package": "job-dagvd3gmhr3c73e5p3p0.zip",
+      "package_sha256": "f2139875709d2b33735c968ecf335875073b6064aa71c33f0076100d2cd7b38b"
+    }
+  ],
+  "source_ledger": "public_evidence_ledger.json",
+  "successful_jobs": 8,
+  "total_jobs": 8
+}
