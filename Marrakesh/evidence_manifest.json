@@ -1,0 +1,67 @@
+{
+  "failed_jobs": 0,
+  "format": "prometheus_evidence_manifest_sanitized_v1",
+  "generated_at_utc": "2026-09-10T01:16:30.426443+00:00",
+  "records": [
+    {
+      "job_details_raw_sha256": "23be0c1243d0ed262ae6d0e73de9159381822da938e6b626cd1d56f360fc8493",
+      "job_id": "dah048r9k43c73ae14kg",
+      "job_results_raw_sha256": "82c80c6f0f30125619e9e5a0726fe31c1c0587c424d36052340ef0de03b277cc",
+      "package": "job-dah048r9k43c73ae14kg.zip",
+      "package_sha256": "ee52a4eb872ff936e7f0e1604f8942fde70f534fa2dbbe91009290d95dae4b8f"
+    },
+    {
+      "job_details_raw_sha256": "ca38d2681ea1ade0646882cba525046701e38b9028e728628195759beeb069b8",
+      "job_id": "dah0071hvn6c73cr8b10",
+      "job_results_raw_sha256": "494a867fdd57be1d5f174c8cc61b0b90a3b3f0b0dcb68678b04c2d1526388bfe",
+      "package": "job-dah0071hvn6c73cr8b10.zip",
+      "package_sha256": "26b9b5ad954c07055ad91cd8f33f0015f6ea9ee512c7a5e89a625676bd131950"
+    },
+    {
+      "job_details_raw_sha256": "6faaaaf964a9eaeea8a3c83afa1db775a353183cbc96e3c5b677655a528e9488",
+      "job_id": "dagvtu8mhr3c73e5poe0",
+      "job_results_raw_sha256": "b7b335626267a7273b2a0be18588da611b2402d812833748a8f1df4c57328af5",
+      "package": "job-dagvtu8mhr3c73e5poe0.zip",
+      "package_sha256": "17061ffbe8b1e2758aed34098b36405386db9eb1018e0c670d7f3233622ab51b"
+    },
+    {
+      "job_details_raw_sha256": "408bfeddf74d9c0d9d3ce7d8f2737395fa88240904e05374453d7108dfa358e9",
+      "job_id": "dagvq10mhr3c73e5pjvg",
+      "job_results_raw_sha256": "473e0616261abdf0899cee929c2636361b21a9ed2f83e818f00805bae656c071",
+      "package": "job-dagvq10mhr3c73e5pjvg.zip",
+      "package_sha256": "644bae742b4f65b8fdf74644bbaedcf7a1c99d101dc197e531b11efd95e7c49c"
+    },
+    {
+      "job_details_raw_sha256": "e146c00e8ee76474c77edb782bceff17b0f0ffe54ce9347ef3a0a644f6babb92",
+      "job_id": "dagvm5phvn6c73cr7vp0",
+      "job_results_raw_sha256": "a2f2a9c6a4f0d5fa8042ed07ba308a12afa1fb67fad7047d2a60b0eef72b233a",
+      "package": "job-dagvm5phvn6c73cr7vp0.zip",
+      "package_sha256": "7779e84c9a4c32c6c0d903bcc8354740365923251344cd1f62f0ac85eb3c3ea8"
+    },
+    {
+      "job_details_raw_sha256": "56d890aa684e6868f273e0c919df275299e4f2d02702607719dc9bfd6cd0d4ee",
+      "job_id": "dagvjqvi3e6s738n23kg",
+      "job_results_raw_sha256": "bcaa221c1277e68faca67895bbb7989e91b647064961dfefc07b79e7762b848b",
+      "package": "job-dagvjqvi3e6s738n23kg.zip",
+      "package_sha256": "dd180186b693d48f57add768de6e77efae13296f932a90d40443d2ac1d2d20c6"
+    },
+    {
+      "job_details_raw_sha256": "3a390ea6188ee6dcacf499bd680bebeca697521c9e5409f85e5452a4453399b6",
+      "job_id": "dagvglvi3e6s738n1vvg",
+      "job_results_raw_sha256": "9b4e30415ae80c43866de009e17d4ea0694572a993134215eb6dbb94788e1467",
+      "package": "job-dagvglvi3e6s738n1vvg.zip",
+      "package_sha256": "e64200c3234a087027d4e6226e6c005b4e6bc1b66cae67d78b841ce3804acec8"
+    },
+    {
+      "job_details_raw_sha256": "09ea10a4524cbc1593045198a71d974d0e8f0b21647dc3a7e3c6efeddd9f7774",
+      "job_id": "dagvd3gmhr3c73e5p3p0",
+      "job_results_raw_sha256": "5726eea7d6890bbd7729b52e5a5348b2a082a6c3867908640b9614034cc2e7ef",
+      "package": "job-dagvd3gmhr3c73e5p3p0.zip",
+      "package_sha256": "1dbde9ad47f1d1fc9b0d4b60d6c972a6f473338af1b58638466a80b309f34d4d"
+    }
+  ],
+  "source_ledger": "public_evidence_ledger.json",
+  "successful_jobs": 8,
+  "total_jobs": 8,
+  "sanitization_note": "Sanitized public derivative: serialized physical circuits (params.pubs) and account user_id removed from job_details_raw.json; job_results_raw.json is the unmodified IBM Quantum results payload."
+}

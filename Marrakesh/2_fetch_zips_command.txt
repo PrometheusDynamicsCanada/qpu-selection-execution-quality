@@ -1,0 +1,3 @@
+python 2_fetch_zips.py --token "YOUR_API_KEY" --service-crn "INSERT_CRN_HERE"
+
+crn can be obtained from the IBM instances page
