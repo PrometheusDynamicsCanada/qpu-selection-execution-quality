@@ -1,0 +1,74 @@
+{
+  "failed_jobs": 0,
+  "format": "prometheus_evidence_manifest_sanitized_v1",
+  "generated_at_utc": "2026-09-10T09:50:26.581365+00:00",
+  "records": [
+    {
+      "job_details_raw_sha256": "dcb313f47aff12bc09906899721f27e26b84aea395d3bacef629248eeff47da2",
+      "job_id": "dah7m99hvn6c73crkvr0",
+      "job_results_raw_sha256": "6b2e425d65f114829c4e3d467bf8acbfeaef33d17ed9f285ffaaf1eaa73cbd2b",
+      "package": "job-dah7m99hvn6c73crkvr0.zip",
+      "package_sha256": "1abedac05653aa74dd4e8398d3d214bd126e052085961759e1949a344337315c"
+    },
+    {
+      "job_details_raw_sha256": "8dc7c51f45ef0e45fe9d0f61485e26c974709f61592ea1806e6b2ac7bd6653c0",
+      "job_id": "dah7m29hvn6c73crkvj0",
+      "job_results_raw_sha256": "50ea65fb5700f00f25462e78f8826343920f5db13584f94f5d1d00b507abc0ea",
+      "package": "job-dah7m29hvn6c73crkvj0.zip",
+      "package_sha256": "cabb4794471f1a23d219eed8be78843b0a1c8158e2e8be70ccd66decce2a9c43"
+    },
+    {
+      "job_details_raw_sha256": "18cccfe8f405bc0f9e5eb3c22edc78e3c5e71950029c47f8f8a52360cf69fa23",
+      "job_id": "dah7lqhhvn6c73crkv7g",
+      "job_results_raw_sha256": "2877b5c6aaf0c53501dce753fe52ed78427bec47c5229f431184db13738ae202",
+      "package": "job-dah7lqhhvn6c73crkv7g.zip",
+      "package_sha256": "058290ba20b938cea5b3f63b405c8f97ae7a61d04c005f331821421f38a46eae"
+    },
+    {
+      "job_details_raw_sha256": "5346be77cab999dd5093c5c99b20945463baf610bf083c678239f1e6e8519642",
+      "job_id": "dah7jq39k43c73aedltg",
+      "job_results_raw_sha256": "1fcdd56fc1b8c988d68cf9267990119606e6248a1eaaf3693f43447db528a0b8",
+      "package": "job-dah7jq39k43c73aedltg.zip",
+      "package_sha256": "3d27d689779e421b17c9494a7324c84115292b9ae1f15291f7df92b626aedad5"
+    },
+    {
+      "job_details_raw_sha256": "b50a7d6347b5190caf8bc8fe73bf68c5660b258668a15645a38e56be9609384c",
+      "job_id": "dah7jq7i3e6s738nf8h0",
+      "job_results_raw_sha256": "39849f4c1b4ae8bd9d9fa961f3765a6b804e8e5c457bbf0e74b1afd4f8e4a09b",
+      "package": "job-dah7jq7i3e6s738nf8h0.zip",
+      "package_sha256": "103ab498fa328d7efab9ae66fb3bb95744da86d8a247bc4f6ff7060e0b271f5a"
+    },
+    {
+      "job_details_raw_sha256": "114edc8eb443262326e09881c63de7e37c369cb1630609933bcc05d73fa5e0ba",
+      "job_id": "dah7jdfi3e6s738nf7v0",
+      "job_results_raw_sha256": "3521f218f84afd0784a507a81206904b4ea1746c60eb74ae7f2877c181db2062",
+      "package": "job-dah7jdfi3e6s738nf7v0.zip",
+      "package_sha256": "cacaa96e0358ac5ac0a425ec1ef3e599a3a1790c174ea7a12039fd952617ee31"
+    },
+    {
+      "job_details_raw_sha256": "59dce905c9e5e5c5a4ad3ef0e8757b8b08843c299e51c07d0e222721cc531986",
+      "job_id": "dah7ekgmhr3c73e665kg",
+      "job_results_raw_sha256": "5d7f687f9c93e6ea682e29c54e5aca953285b3809b16c5527f516f76863fd5d6",
+      "package": "job-dah7ekgmhr3c73e665kg.zip",
+      "package_sha256": "26f753d804ad717b9628d6b33e627a4a859036c8f1a3a6070e096a4d19691f54"
+    },
+    {
+      "job_details_raw_sha256": "801d264fede037348650201b4db3269b4ac6ec620439fca15a287f444df9f22e",
+      "job_id": "dah7efgmhr3c73e665g0",
+      "job_results_raw_sha256": "ca5140417f231d6a216c276f3f26f8a6a9071301b1df03a341f3d7e6fb3de225",
+      "package": "job-dah7efgmhr3c73e665g0.zip",
+      "package_sha256": "71a6c2d2b37c1ca6c46cc9ea89ad7422af42a402ddc42b20277d1f3327f75f7e"
+    },
+    {
+      "job_details_raw_sha256": "329a5596853085caf0e5f375e622862e92f866284f4cd7896a8d9709462b8395",
+      "job_id": "dah7efb9k43c73aedfp0",
+      "job_results_raw_sha256": "cb1300f32cb5f490b6686a50ad55e3944b6e3406cfa2c127f47afff7e6214253",
+      "package": "job-dah7efb9k43c73aedfp0.zip",
+      "package_sha256": "c72195b9fc3db1d38bbb21fe7d206fbf4f5e5e10880f5e72806784e519a3524e"
+    }
+  ],
+  "source_ledger": "public_evidence_ledger.json",
+  "successful_jobs": 9,
+  "total_jobs": 9,
+  "sanitization_note": "Sanitized public derivative: serialized physical circuits (params.pubs) and account user_id removed from job_details_raw.json; job_results_raw.json is the unmodified IBM Quantum results payload."
+}

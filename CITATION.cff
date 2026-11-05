@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "QPU Selection and Quantum Execution Quality: IBM Quantum Hardware Evidence"
+type: dataset
+abstract: >-
+  Experimental record examining whether target-QPU selection materially changes
+  measured quantum execution quality across IBM Fez, Kingston, and Marrakesh,
+  with SABRE O3, TKET, and Prometheus compiler outputs.
+message: "Please cite this repository when using the included experimental record."
+authors:
+  - family-names: Denyer
+    given-names: William
+date-released: 2026-09-10

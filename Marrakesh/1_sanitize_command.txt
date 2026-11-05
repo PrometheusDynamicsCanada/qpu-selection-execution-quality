@@ -1,0 +1,1 @@
+python 1_sanitize_ledger.py --raw C:\path\to\your\server\prometheus_job_ledger.json
